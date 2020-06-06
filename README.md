@@ -1,6 +1,6 @@
 # data-show
 
-> project for bigdata show
+> This is a vue2 project for me to learn echart
 
 ## Build Setup
 
