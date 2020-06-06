@@ -1,5 +1,5 @@
 <template>
-  <el-button @click="getAllData"></el-button>
+  <el-button @click="getAllData">click to send request</el-button>
 </template>
 
 <script>
